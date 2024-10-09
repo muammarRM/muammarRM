@@ -4,7 +4,7 @@ Perkenalkan nama saya **Muammar Ramadhani Maulizidan**.<br>
 
 Saya adalah seorang **Developer** .<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muammar-ramadhani-maulizidan/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muammarrm/)ku ya.
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/muammarRM">
