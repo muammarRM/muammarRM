@@ -79,7 +79,7 @@
   </a>
 </p>
 
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muammarrm&repo=Aplikasi-Dicoding-Event)](https://github.com/muammarRM/Aplikasi-Dicoding-Event)) -->
