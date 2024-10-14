@@ -67,6 +67,6 @@
 </a>
 </p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muammarrm)](https://wakatime.com/muammarrm)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muammarRM)](https://wakatime.com/muammarRM)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muammarrm&repo=Aplikasi-Dicoding-Event)](https://github.com/muammarRM/Aplikasi-Dicoding-Event)) -->
