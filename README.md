@@ -60,13 +60,26 @@
 
 ### Github Statistic
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muammarrm&label=Profile%20views&color=0e75b6&style=flat" alt="muammarrm" /> </p>
+
 <p align="left">
-<a href="https://github.com/muammarRM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=muammarrm&show_icons=true&locale=en&layout=compact" alt="muammarrm" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muammarRM&show_icons=true&include_all_commits=true&count_private=true" alt="muammarrm" />
-</a>
+  <a href="https://github.com/muammarRM">
+    <img width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muammarRM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="muammarrm" />
+  </a>
 </p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muammarRM&layout=compact)](https://github.com/anuraghazra/github-readme-stats))
+<p align="left">
+  <a href="https://github.com/muammarRM">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muammarrm&theme=tokyonight&langs_count=6" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=muammarRM&layout=compact&theme=tokyonight" alt="Harlok's WakaTime stats" />
+  </a>
+</p>
+
+
+
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muammarrm&repo=Aplikasi-Dicoding-Event)](https://github.com/muammarRM/Aplikasi-Dicoding-Event)) -->
