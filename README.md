@@ -74,7 +74,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/muammarRM">
     <img width="400em" src="https://github-readme-stats.vercel.app/api/wakatime?username=muammarRM&layout=compact&theme=tokyonight" alt="Harlok's WakaTime stats" />
   </a>
 </p>
