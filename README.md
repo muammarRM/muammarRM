@@ -82,8 +82,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   53 mins         █████████████████████████   99.78 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Kotlin                 5 hrs 12 mins   ███████████████████████░░   91.95 %
+XML                    26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Properties             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
